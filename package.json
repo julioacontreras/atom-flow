@@ -1,13 +1,13 @@
 {
-  "name": "metaprogramming",
-  "main": "./lib/metaprogramming",
+  "name": "flow",
+  "main": "./lib/flow",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Atom package to render flow from json file",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "metaprogramming:toggle"
+    "atom-workspace": "flow:toggle"
   },
-  "repository": "https://github.com/atom/metaprogramming",
+  "repository": "https://github.com/julioacontreras/atom-flow",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
