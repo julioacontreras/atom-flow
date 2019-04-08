@@ -1,0 +1,20 @@
+{
+  "name": "metaprogramming",
+  "main": "./lib/metaprogramming",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "metaprogramming:toggle"
+  },
+  "repository": "https://github.com/atom/metaprogramming",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "d3": "^5.9.2",
+    "jquery": "^3.3.1",
+    "underscore": "^1.9.1"
+  }
+}

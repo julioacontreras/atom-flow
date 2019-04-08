@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-m": "metaprogramming:toggle",
+    "ctrl-alt-l": "metaprogramming:reload"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle metaprogramming",
+        "command": "metaprogramming:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "metaprogramming",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "metaprogramming:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
